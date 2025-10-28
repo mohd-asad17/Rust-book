@@ -89,7 +89,6 @@ The value of x is: 6
 ```
 
 **Tips**:- Use `mut` carfully. Prefer Immutable variable unless you need to explicitly **mutate** -- it improves safety and readability.
----
 
 
 
